@@ -1,0 +1,6 @@
+train: datasets/base/train/images
+val: datasets/base/valid/images
+test: datasets/base/test/images
+
+nc: 2
+names: ['no mask', 'mask']

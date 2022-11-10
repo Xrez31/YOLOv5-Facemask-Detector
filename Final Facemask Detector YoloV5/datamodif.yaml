@@ -1,0 +1,6 @@
+train: datasets/custom/train/images
+val: datasets/custom/valid/images
+test: datasets/custom/test/images
+
+nc: 3
+names: ['incorrect', 'mask', 'no mask']

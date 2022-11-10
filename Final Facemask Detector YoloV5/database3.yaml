@@ -1,0 +1,6 @@
+train: datasets/base3class/train/images
+val: datasets/base3class/valid/images
+test: datasets/base3class/test/images
+
+nc: 3
+names: ['incorrect', 'mask', 'no mask']
